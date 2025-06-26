@@ -7,8 +7,5 @@ int main() {
     // "std" é o nome do "pacote" (namespace) padrão da linguagem C++
     // "endl" pula para a próxima linha (como o Enter)
 
-    std::cout << "Você sabe usar o GitHub?" << std::endl; 
-    // Mostra uma pergunta no terminal
-
     return 0; // Finaliza o programa
 }
